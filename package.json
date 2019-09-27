@@ -1,0 +1,18 @@
+{
+  "name": "serverpruebas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "golem": "scrapper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "express": "^4.17.1",
+    "jsdom": "^15.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
